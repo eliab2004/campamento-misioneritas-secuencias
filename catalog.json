@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "campamento-misioneritas-alaba-intro",
+    "set": "Campamento misioneritas",
+    "title": "Alaba(intro)",
+    "order": 1,
+    "project": "Campamento misioneritas/Alaba(intro)/Alaba(intro).rpp",
+    "start": 0,
+    "duration": 325.3656462585034,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-4ea0bcc63914-ag.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Alto",
+        "file": "audio-715625c0d57b-alto.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Aux Drums (Live)",
+        "file": "audio-624b56cc8ce7-aux-drums-live.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Bass 2",
+        "file": "audio-c65c7f5ecbd5-bass-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Bass",
+        "file": "audio-0b25a84be283-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "BGVS 2",
+        "file": "audio-9c2eed894729-bgvs-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-cdee444d4bce-bgvs.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Choir",
+        "file": "audio-a5e54449778b-choir.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Click",
+        "file": "audio-c32bca0e4a6f-click.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Drums",
+        "file": "audio-51e4cde2ed5b-drums.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-c35993891fd5-eg-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-965535b95ecd-eg-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-6ed922cea172-eg-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-12a7ed2507b0-eg-4.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 5",
+        "file": "audio-fbad898c1356-eg-5.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 6",
+        "file": "audio-d071471ebf68-eg-6.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 7",
+        "file": "audio-691e18e1a877-eg-7.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "FX 1",
+        "file": "audio-fd6cb9431b30-fx-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-9c60b28a86e1-keys-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-43f728c9d67c-keys-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-e490fc66b6a8-keys-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 4",
+        "file": "audio-27cb4f42025e-keys-4.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Loop",
+        "file": "audio-ab5397b635bf-loop.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Organ",
+        "file": "audio-553dbad5e7d3-organ.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Perc",
+        "file": "audio-1e4e0114def4-perc.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Piano",
+        "file": "audio-a456507f9d5e-piano.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-4e61afe7f648-synth-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Guide",
+        "file": "audio-a159facf1654-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      }
+    ]
+  },
+  {
+    "id": "campamento-misioneritas-danzare",
+    "set": "Campamento misioneritas",
+    "title": "Danzare",
+    "order": 1,
+    "project": "Campamento misioneritas/Danzare/Danzare.rpp",
+    "start": 0,
+    "duration": 252.43297916666666,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "Bass",
+        "file": "audio-6824bab95307-bass.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Choir",
+        "file": "audio-c9aeba7cecf6-choir.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-831184677487-click-track.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-c8dcc3fdf609-drums-live.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-39a8cc8097ef-eg-1.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-27f3ba0fabad-eg-2.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-56da047acc0d-eg-3.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Guide",
+        "file": "audio-fcf67d02c4f6-guide.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-6668bd054aed-keys-1.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-ac957f020f13-keys-2.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-b821a8ab55cc-keys-3.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Loop",
+        "file": "audio-8fc65b4eca28-loop.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Organ",
+        "file": "audio-a797a1d6e41c-organ.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Perc",
+        "file": "audio-c95923762f6f-perc.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Piano",
+        "file": "audio-a131711f4489-piano.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Vox Chop",
+        "file": "audio-35100db507ca-vox-chop.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      }
+    ]
+  },
+  {
+    "id": "campamento-misioneritas-fiesta-en-el-desierto",
+    "set": "Campamento misioneritas",
+    "title": "Fiesta en el Desierto",
+    "order": 1,
+    "project": "Campamento misioneritas/Fiesta en el Desierto/Fiesta en el Desierto.rpp",
+    "start": 0,
+    "duration": 322.77192743764175,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-794f51888204-ag.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Bass",
+        "file": "audio-a978b633fda1-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-378051daa5ab-bgvs.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Choir 2",
+        "file": "audio-866d1c747b8e-choir-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Choir",
+        "file": "audio-71ac5b7574c3-choir.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-5100f3a9b68b-click-track.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-71b8346a562b-drums-live.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-34e08138c09e-eg-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-8b12536903bb-eg-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-30e047dc55f8-eg-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-5c66eba1a1fc-eg-4.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "EG 5",
+        "file": "audio-2c9ee1edd5ec-eg-5.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Guide",
+        "file": "audio-51a0ea132bb1-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-2ff08130ac90-keys-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-5f977ceea921-keys-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-88383e0c9439-keys-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Perc",
+        "file": "audio-0d53361c36ca-perc.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Piano",
+        "file": "audio-1b1ae72f1a9d-piano.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-a11114f21763-synth-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.77192743764175
+      }
+    ]
+  },
+  {
+    "id": "concierto-alaba-intro",
+    "set": "Concierto",
+    "title": "Alaba Intro",
+    "order": 1,
+    "project": "Concierto/Concierto.rpp",
+    "start": 0.0,
+    "duration": 325.3656462585034,
+    "pitchSemitones": -5,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-08a9b1b1a154-ag.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Alto",
+        "file": "audio-92f6d11ab57e-alto.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Aux Drums (Live)",
+        "file": "audio-1794bbdbff13-aux-drums-live.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Bass 2",
+        "file": "audio-15a404571a27-bass-2.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Bass",
+        "file": "audio-c3dd05296ea2-bass.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "BGVS 2",
+        "file": "audio-892bd31e20bd-bgvs-2.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-b6e3665babe2-bgvs.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Choir",
+        "file": "audio-0d9eda301239-choir.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Click",
+        "file": "audio-89d4ce597086-click.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Drums",
+        "file": "audio-1f545bf09880-drums.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-f9b8d1ca60c4-eg-1.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-f6c84cd5fb35-eg-2.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-51082fec2f08-eg-3.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-b1b8419897b2-eg-4.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 5",
+        "file": "audio-f890c42039d9-eg-5.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 6",
+        "file": "audio-8c874555684b-eg-6.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "EG 7",
+        "file": "audio-e5ffee90617e-eg-7.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "FX 1",
+        "file": "audio-5d37ba3aea2b-fx-1.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Guide",
+        "file": "audio-584a93ce2d32-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-82fdf83dfc70-keys-1.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-1e5b17b74658-keys-2.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-b819c48e246f-keys-3.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Keys 4",
+        "file": "audio-2d36e27e6720-keys-4.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Loop",
+        "file": "audio-97483cbd3f25-loop.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Organ",
+        "file": "audio-262e114f2160-organ.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Perc",
+        "file": "audio-9ba433400bf3-perc.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Piano",
+        "file": "audio-6a509a5c0e69-piano.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-998c5e831969-synth-bass.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 325.3656462585034
+      }
+    ]
+  },
+  {
+    "id": "concierto-avivamiento",
+    "set": "Concierto",
+    "title": "Avivamiento",
+    "order": 2,
+    "project": "Concierto/Concierto.rpp",
+    "start": 322.0,
+    "duration": 324.4282499999998,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-2aa571656d07-ag-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Arps",
+        "file": "audio-e36a8bf7d9e8-arps.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Bass",
+        "file": "audio-308a5437a8f0-bass-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-6370d21c2430-bgvs-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Choir",
+        "file": "audio-12402b875b2b-choir-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Click",
+        "file": "audio-633a01bd3832-click-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 316.0
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-d90f795cdbba-drums-live.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-a525b27011af-eg-1-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-c401763f82b4-eg-2-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-b1a0091fdc4c-eg-3-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Guide",
+        "file": "audio-7ddc62832436-guide-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Loop",
+        "file": "audio-41c5897e7f3c-loop-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Organ",
+        "file": "audio-291dfa365644-organ-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Piano",
+        "file": "audio-6e5924a31a01-piano-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Strings",
+        "file": "audio-e7ae4b3b6ae0-strings.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Synth FX",
+        "file": "audio-00fec4a2059b-synth-fx.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Synth Group",
+        "file": "audio-2b661e7133a8-synth-group.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      },
+      {
+        "name": "Synth Lead",
+        "file": "audio-951dd3e9514f-synth-lead.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 324.4282499999998
+      }
+    ]
+  },
+  {
+    "id": "concierto-como-david",
+    "set": "Concierto",
+    "title": "Como David",
+    "order": 3,
+    "project": "Concierto/Concierto.rpp",
+    "start": 637.5,
+    "duration": 245.75882086167803,
+    "pitchSemitones": -3,
+    "tracks": [
+      {
+        "name": "AG 1",
+        "file": "audio-4953ab2f9e7b-ag-1.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "AG 2",
+        "file": "audio-b2887edbd71a-ag-2.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "AG 3",
+        "file": "audio-568447036fea-ag-3.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "AG",
+        "file": "audio-c5b3cbb657e3-ag-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Arps",
+        "file": "audio-3bcc2c6cb281-arps-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Bass",
+        "file": "audio-40cf85ce0699-bass-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "BGVS 1",
+        "file": "audio-c22e20a88103-bgvs-1.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "BGVS 2",
+        "file": "audio-f68aca57c7ac-bgvs-2-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "BGVS 3",
+        "file": "audio-5030128b6cda-bgvs-3.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Choir",
+        "file": "audio-8e38cebe40c0-choir-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-a50cd90917b6-click-track.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 243.75882086167803
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-b55cdb6a2f42-drums-live-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-96493416b236-eg-1-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-0334caafff3f-eg-2-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-b52dc39d52b1-eg-3-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-0d7910b34dac-eg-4-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 5",
+        "file": "audio-4107bfe356b8-eg-5-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 6",
+        "file": "audio-a769d5d25458-eg-6-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 7",
+        "file": "audio-16312dd0531e-eg-7-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "EG 8",
+        "file": "audio-1ddedc114aa7-eg-8.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Guide",
+        "file": "audio-10bbb9365d69-guide-002.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 244.25882086167803
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-a7b623792be6-keys-1-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-336ed5567975-keys-2-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Loop",
+        "file": "audio-4a7c341bb7f5-loop-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Piano",
+        "file": "audio-b1f20c10800d-piano-002.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Synth Bass 2",
+        "file": "audio-b1a38c2091b2-synth-bass-2.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-edae574b07b9-synth-bass-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Synth Group",
+        "file": "audio-2a9263cb58c1-synth-group-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Synth Lead",
+        "file": "audio-47891bd758f6-synth-lead-001.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      },
+      {
+        "name": "Synth Pad",
+        "file": "audio-b8d9e01a201c-synth-pad.wav",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 245.75882086167803
+      }
+    ]
+  },
+  {
+    "id": "concierto-fiesta-en-el-desierto",
+    "set": "Concierto",
+    "title": "Fiesta en el Desierto",
+    "order": 4,
+    "project": "Concierto/Concierto.rpp",
+    "start": 876.0,
+    "duration": 322.7719274376418,
+    "pitchSemitones": -6,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-5754453d024d-ag-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Bass",
+        "file": "audio-536cabe59f31-bass-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-fb80c91a70d3-bgvs-002.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Choir 2",
+        "file": "audio-2f33f8601e61-choir-2.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Choir",
+        "file": "audio-28bfa36da0a1-choir-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-9113b24d102b-click-track-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-6d7776e25a98-drums-live-002.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-0cb7c040935e-eg-1-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-4cc7adee43c4-eg-2-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-41c315b67a87-eg-3-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-3f7f1c5b770f-eg-4-002.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "EG 5",
+        "file": "audio-d57d854fca56-eg-5-002.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Guide",
+        "file": "audio-868cb7c9089d-guide-003.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-3fc62da0d09b-keys-1-002.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-6c82d096d038-keys-2-002.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-f45bbe8b133c-keys-3-001.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Perc",
+        "file": "audio-11fd86b99383-perc-001.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Piano",
+        "file": "audio-966978d364df-piano-003.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-bcb7f9959158-synth-bass-002.wav",
+        "semitones": -6,
+        "offset": 0,
+        "duration": 322.7719274376418
+      }
+    ]
+  },
+  {
+    "id": "primer-culto-alaba",
+    "set": "Primer Culto",
+    "title": "Alaba",
+    "order": 1,
+    "project": "Primer Culto/Primer Culto.rpp",
+    "start": 0.0,
+    "duration": 308.0108616780045,
+    "pitchSemitones": -3,
+    "tracks": [
+      {
+        "name": "Alto",
+        "file": "audio-dd8afcf4b98c-alto.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Bass",
+        "file": "audio-bd5ffc831558-bass.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Choir",
+        "file": "audio-696178786cee-choir.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Click track",
+        "file": "audio-820aeca2b63d-click-track.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Drums",
+        "file": "audio-0df05afcf243-drums.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-03d08665219a-eg-1.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-ea1c76a8563c-eg-2.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-44ac61d0ce7e-eg-3.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-e6c0fe36049e-eg-4.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Guide",
+        "file": "audio-2a19904c94f5-guide.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-70e3580923d8-keys-1.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-06ebcfe22b20-keys-2.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-2a85e694c621-keys-3.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Loop",
+        "file": "audio-886458d8a1a2-loop.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Piano",
+        "file": "audio-df336ec023ac-piano.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "Synth bass",
+        "file": "audio-0a182ea89fdd-synth-bass.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      },
+      {
+        "name": "AG",
+        "file": "audio-d4fbadb87e86-ag.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 308.0108616780045
+      }
+    ]
+  },
+  {
+    "id": "primer-culto-no-me-averguenzo",
+    "set": "Primer Culto",
+    "title": "No Me Averguenzo",
+    "order": 2,
+    "project": "Primer Culto/Primer Culto.rpp",
+    "start": 512.0,
+    "duration": 272.7272916666666,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "Keys 2",
+        "file": "audio-ce79b3361949-keys-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-18fff0559207-keys-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Keys 4",
+        "file": "audio-c43bfebf345d-keys-4.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Loop",
+        "file": "audio-e2ab836f60c7-loop.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Piano",
+        "file": "audio-d16d26cff31d-piano.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Sfx",
+        "file": "audio-93eb7af8d876-sfx.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-dc5430d20050-synth-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Synth Loop",
+        "file": "audio-bf9152a6f2ee-synth-loop.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Vocal Chop",
+        "file": "audio-e835b7038b68-vocal-chop.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "AG",
+        "file": "audio-c2140204622f-ag.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Bass",
+        "file": "audio-958a4f270dab-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-5fa2d2d5bffb-bgvs.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Choir",
+        "file": "audio-d6526af6cd86-choir.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Click",
+        "file": "audio-d40578b48327-click.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Drums",
+        "file": "audio-0d88ddb1bcfc-drums.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-81008535f51c-eg-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-a47d163e9e7b-eg-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "EG Group",
+        "file": "audio-aa696ba3f28e-eg-group.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Guide",
+        "file": "audio-a385d5897377-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-6be995af9a2e-keys-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 272.7272916666666
+      }
+    ]
+  },
+  {
+    "id": "primer-culto-libre",
+    "set": "Primer Culto",
+    "title": "LIbre",
+    "order": 3,
+    "project": "Primer Culto/Primer Culto.rpp",
+    "start": 1024.0,
+    "duration": 259.99780045351474,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "Libre",
+        "file": "audio-143a94bea38c-bajo.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 5",
+        "file": "audio-8aed82c0c549-electrica-5.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 6",
+        "file": "audio-483f7745cc02-electrica-6.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 7",
+        "file": "audio-efdd08050b32-electrica-7.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Guía",
+        "file": "audio-27ff75c67124-guia.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 251.40351473922902
+      },
+      {
+        "name": "Loop",
+        "file": "audio-f73084095ba4-loop-001.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Pads",
+        "file": "audio-6770beb08309-pads.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Piano",
+        "file": "audio-56bc4933ecb5-piano-001.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Sintetizador",
+        "file": "audio-e23326803aad-sintetizador.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Bajo",
+        "file": "audio-143a94bea38c-bajo.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Batería",
+        "file": "audio-c3b6f4b6adb3-bateria.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Click",
+        "file": "audio-b00ad243cd3e-click.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 1",
+        "file": "audio-ad0fb5441147-electrica-1.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 2",
+        "file": "audio-df5618088bf8-electrica-2.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 3",
+        "file": "audio-c23d889afa7c-electrica-3.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      },
+      {
+        "name": "Eléctrica 4",
+        "file": "audio-d7cc84c2c456-electrica-4.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 259.99780045351474
+      }
+    ]
+  },
+  {
+    "id": "primer-culto-a-danzar",
+    "set": "Primer Culto",
+    "title": "A Danzar",
+    "order": 4,
+    "project": "Primer Culto/Primer Culto.rpp",
+    "start": 1536.0,
+    "duration": 336.0000680272109,
+    "pitchSemitones": -4,
+    "tracks": [
+      {
+        "name": "Bass",
+        "file": "audio-999f2d2d49b5-bass.wav",
+        "semitones": -4,
+        "offset": 0,
+        "duration": 336.0000680272109
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-2e5c2f51d2ee-bgvs.wav",
+        "semitones": -4,
+        "offset": 0,
+        "duration": 336.0000680272109
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-d985040558a8-click-track.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 336.0000680272109
+      },
+      {
+        "name": "Drums",
+        "file": "audio-e66b37ad5fb1-drums.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 336.0000680272109
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-f3c64e6621e6-eg-1.wav",
+        "semitones": -4,
+        "offset": 0,
+        "duration": 336.0000680272109
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-0c4aa183d740-eg-2.wav",
+        "semitones": 0,
+        "offset": 24.0,
+        "duration": 312.000068027211
+      },
+      {
+        "name": "Guide",
+        "file": "audio-776258ab2192-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 336.0000680272109
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-944be1365e30-keys-1.wav",
+        "semitones": -4,
+        "offset": 0,
+        "duration": 336.0000680272109
+      }
+    ]
+  },
+  {
+    "id": "segundo-culto-socorro",
+    "set": "Segundo culto",
+    "title": "Socorro",
+    "order": 1,
+    "project": "Segundo culto/Segundo culto.rpp",
+    "start": 4.80197278911563,
+    "duration": 258.6,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "Bajo",
+        "file": "audio-abe19a3c9045-bajo.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Batería",
+        "file": "audio-bbd190c51361-bateria.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Clic _100 bpm",
+        "file": "audio-d2bb187382c6-clic-100-bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Coro Studio",
+        "file": "audio-37e13cfc2e89-coro-studio.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Coro",
+        "file": "audio-bec4cdcbf358-coro.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "GA",
+        "file": "audio-235cba310468-ga.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "GE 1",
+        "file": "audio-163766cd2339-ge-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "GE 2",
+        "file": "audio-48ea9581b617-ge-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "GE 3",
+        "file": "audio-fabc1d14baa4-ge-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "GE 4",
+        "file": "audio-7aa523e38f7e-ge-4.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "GE 5",
+        "file": "audio-133f838a0e2a-ge-5.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Guías",
+        "file": "audio-71503b9c5a22-guias.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Órgano",
+        "file": "audio-884bf44f5c4f-organo.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Percusión",
+        "file": "audio-12a6846b21a9-percusion.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Piano 1",
+        "file": "audio-d63f21535baa-piano-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Piano 2",
+        "file": "audio-4f65948d0f92-piano-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Synth 1",
+        "file": "audio-10253a0fd9d8-synth-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      },
+      {
+        "name": "Synth 2",
+        "file": "audio-74985471f717-synth-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 258.6
+      }
+    ]
+  },
+  {
+    "id": "segundo-culto-cambiare-mis-tristezas",
+    "set": "Segundo culto",
+    "title": "Cambiare mis Tristezas",
+    "order": 2,
+    "project": "Segundo culto/Segundo culto.rpp",
+    "start": 384.0,
+    "duration": 144.0,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "Click",
+        "file": "audio-2b9788ae255a-click.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Coro",
+        "file": "audio-10dc57319772-coro-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "GE 1",
+        "file": "audio-ae2d00bc0839-ge-1-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "GE 2",
+        "file": "audio-cc210a79146d-ge-2-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Guia",
+        "file": "audio-c3c28641cf16-guia.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "LpSinte",
+        "file": "audio-ae260db3b877-lpsinte.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Metales",
+        "file": "audio-bffac30f1931-metales.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Organo",
+        "file": "audio-5d03e575afa7-organo.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Piano",
+        "file": "audio-bf7a62b64737-piano.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Synths",
+        "file": "audio-e4042a44ad6b-synths.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Vocales",
+        "file": "audio-005ce6df1dfa-vocales.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Bajo",
+        "file": "audio-a4fe53e3df52-bajo-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      },
+      {
+        "name": "Bateria",
+        "file": "audio-ecc586e4e8bb-bateria.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 144.0
+      }
+    ]
+  },
+  {
+    "id": "segundo-culto-libre-soy",
+    "set": "Segundo culto",
+    "title": "LIbre Soy",
+    "order": 3,
+    "project": "Segundo culto/Segundo culto.rpp",
+    "start": 576.0,
+    "duration": 296.0,
+    "pitchSemitones": -5,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-854f593b966d-ag.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "Bass",
+        "file": "audio-ea95df69cf62-bass.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-3a6d2cf25dde-bgvs.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-c474ca6318f9-click-track.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "Drums",
+        "file": "audio-4f75939afada-drums.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-d50a53b59184-eg-1.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-8bd4af31fa7d-eg-2.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-2c60da26ed97-eg-3.wav",
+        "semitones": -5,
+        "offset": 12.0,
+        "duration": 152.0
+      },
+      {
+        "name": "Guide",
+        "file": "audio-8e684826a356-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-fdb15655b082-keys-1.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      },
+      {
+        "name": "Piano-imported",
+        "file": "audio-3f840041c29e-piano-imported.wav",
+        "semitones": -5,
+        "offset": 0,
+        "duration": 296.0
+      }
+    ]
+  },
+  {
+    "id": "segundo-culto-herencia",
+    "set": "Segundo culto",
+    "title": "Herencia",
+    "order": 4,
+    "project": "Segundo culto/Segundo culto.rpp",
+    "start": 1024.0,
+    "duration": 250.7692517006803,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "Bass-imported",
+        "file": "audio-62e827f545c0-bass-imported.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "BGVS-imported",
+        "file": "audio-a0247653aa42-bgvs-imported.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "Click Track-imported",
+        "file": "audio-9462480e1649-click-track-imported.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "Drums-imported",
+        "file": "audio-56cda8e191bd-drums-imported.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "EG Group 1",
+        "file": "audio-0a73a7428923-eg-group-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "EG Group 2",
+        "file": "audio-fa53189eff38-eg-group-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "Guide-imported",
+        "file": "audio-71a67d391a70-guide-imported.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "Loop",
+        "file": "audio-68865c8f759b-loop.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "Piano-imported-001",
+        "file": "audio-3e9ecfbd592c-piano-imported-001.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      },
+      {
+        "name": "Synth Group",
+        "file": "audio-319708a85393-synth-group.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 250.7692517006803
+      }
+    ]
+  },
+  {
+    "id": "tercer-culto-bautizados-en-fuego",
+    "set": "Tercer Culto",
+    "title": "Bautizados en Fuego",
+    "order": 1,
+    "project": "Tercer Culto/Tercer Culto.rpp",
+    "start": 0.0,
+    "duration": 345.4024263038549,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "AG",
+        "file": "audio-80e8e9f7ab20-ag.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Bass",
+        "file": "audio-2ce799f283e6-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "BGVS",
+        "file": "audio-b85dee18f11a-bgvs.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-8206882724a9-click-track.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-bc47e4dd5b35-drums-live.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-40386849cc65-eg-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-828af801624a-eg-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-3f06269634cc-eg-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "EG 4",
+        "file": "audio-9dd07c18cd77-eg-4.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "EG 5",
+        "file": "audio-2e6e8168d522-eg-5.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Guide",
+        "file": "audio-8c73d6a7de79-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-96572b834e56-keys-1.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-ff1c63be0aa7-keys-2.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-9621a9139807-keys-3.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Perc",
+        "file": "audio-9282e02fb88c-perc.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Piano",
+        "file": "audio-2903d7402c4d-piano.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      },
+      {
+        "name": "Synth Bass",
+        "file": "audio-cf7a5c21bbdd-synth-bass.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 345.4024263038549
+      }
+    ]
+  },
+  {
+    "id": "tercer-culto-danzare",
+    "set": "Tercer Culto",
+    "title": "Danzare",
+    "order": 2,
+    "project": "Tercer Culto/Tercer Culto.rpp",
+    "start": 512.0,
+    "duration": 252.43297916666666,
+    "pitchSemitones": -3,
+    "tracks": [
+      {
+        "name": "Bass",
+        "file": "audio-f3e829e6cede-bass.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Choir",
+        "file": "audio-86e394c4551b-choir.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-f406c062dad9-click-track.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Drums (Live)",
+        "file": "audio-f9e8eca8ccdb-drums-live.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "EG 1",
+        "file": "audio-7ef0bc56f718-eg-1.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "EG 2",
+        "file": "audio-9cd63bed4b4e-eg-2.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "EG 3",
+        "file": "audio-b4ecdacb385e-eg-3.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Guide",
+        "file": "audio-ee9178478f51-guide.mp3",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Keys 1",
+        "file": "audio-6b3ad5028cf1-keys-1.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Keys 2",
+        "file": "audio-18502edb8cb0-keys-2.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Keys 3",
+        "file": "audio-8097fcf70352-keys-3.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Loop",
+        "file": "audio-1700541dd049-loop.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Organ",
+        "file": "audio-af49c4ace10c-organ.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Perc",
+        "file": "audio-258c7705f79f-perc.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Piano",
+        "file": "audio-0c8ea0cd70db-piano.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      },
+      {
+        "name": "Vox Chop",
+        "file": "audio-fd0afebfdd2d-vox-chop.mp3",
+        "semitones": -3,
+        "offset": 0,
+        "duration": 252.43297916666666
+      }
+    ]
+  },
+  {
+    "id": "ultimo-culto-ultimo-culto",
+    "set": "Ultimo Culto",
+    "title": "Ultimo Culto",
+    "order": 1,
+    "project": "Ultimo Culto/Ultimo Culto.rpp",
+    "start": 0,
+    "duration": 183.09918367346938,
+    "pitchSemitones": 0,
+    "tracks": [
+      {
+        "name": "bass-F major-121bpm",
+        "file": "audio-582f50f93884-bass-f-major-121bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "Click Track",
+        "file": "audio-8e6339c0aa3c-click-track.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "drums-121bpm",
+        "file": "audio-c5b849b12424-drums-121bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "Guide",
+        "file": "audio-c791818c7de1-guide.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "keys-F major-121bpm",
+        "file": "audio-3cd02dd2a45b-keys-f-major-121bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "vocals 2-F major-121bpm",
+        "file": "audio-350efc64f183-vocals-2-f-major-121bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "vocals-F major-121bpm",
+        "file": "audio-5c9516079bfb-vocals-f-major-121bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      },
+      {
+        "name": "winds-F major-121bpm",
+        "file": "audio-eabb66a0c89b-winds-f-major-121bpm.wav",
+        "semitones": 0,
+        "offset": 0,
+        "duration": 183.09918367346938
+      }
+    ]
+  }
+]

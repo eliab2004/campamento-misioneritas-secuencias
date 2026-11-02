@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101a2b">
+  <meta name="description" content="Escucha las alabanzas del Campamento Misioneritas por separado y controla el volumen de cada pista.">
+  <title>Secuencias · Campamento Misioneritas</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="config.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Inicio">
+      <span class="brand-mark" aria-hidden="true">♪</span>
+      <span>SECUENCIAS <span class="brand-dot">/</span> MISIONERITAS</span>
+    </a>
+    <div class="top-note"><span class="live-dot"></span> Biblioteca de alabanzas</div>
+  </header>
+
+  <main class="layout">
+    <section class="intro">
+      <p class="eyebrow">CAMPAMENTO · MULTITRACKS</p>
+      <h1>La música, <span>pista por pista.</span></h1>
+      <p class="intro-copy">Elige una alabanza, escucha la secuencia y ajusta cada instrumento a tu gusto.</p>
+      <div class="stats" aria-label="Contenido de la biblioteca">
+        <div><strong id="song-count">18</strong><span>alabanzas</span></div>
+        <div><strong id="track-count">312</strong><span>pistas</span></div>
+        <div><strong>6</strong><span>momentos</span></div>
+      </div>
+    </section>
+
+    <section class="player-card" aria-label="Reproductor de secuencias">
+      <div class="player-head">
+        <div class="now-playing">
+          <p class="eyebrow" id="now-set">SELECCIONA UNA ALABANZA</p>
+          <h2 id="now-title">Tu secuencia empieza aquí</h2>
+          <p id="track-summary" class="muted">Todas las pistas se reproducen sincronizadas.</p>
+        </div>
+        <div class="player-actions">
+          <button id="mute-all" class="button button-quiet" type="button" disabled>Silenciar todo</button>
+          <button id="play-button" class="button button-play" type="button" disabled><span aria-hidden="true">▶</span><span id="play-label">Reproducir</span></button>
+        </div>
+      </div>
+      <div class="timeline">
+        <span id="elapsed">0:00</span>
+        <input id="seek" aria-label="Posición de reproducción" type="range" min="0" max="1000" value="0" disabled>
+        <span id="duration">0:00</span>
+      </div>
+      <div id="player-message" class="player-message" role="status">Selecciona una alabanza de la lista para cargar sus pistas.</div>
+      <div id="tracks" class="track-list" aria-live="polite"></div>
+    </section>
+
+    <section class="library" aria-label="Biblioteca de alabanzas">
+      <div class="library-heading">
+        <div>
+          <p class="eyebrow">LA BIBLIOTECA</p>
+          <h2>Escoge una secuencia</h2>
+        </div>
+        <label class="search-wrap">
+          <span aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="Buscar alabanza…" aria-label="Buscar alabanza">
+        </label>
+      </div>
+      <nav id="set-tabs" class="set-tabs" aria-label="Filtrar por momento"></nav>
+      <div id="song-list" class="song-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Campamento Misioneritas</span>
+    <span>Las pistas se mezclan en tu navegador.</span>
+  </footer>
+</body>
+</html>
