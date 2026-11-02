@@ -1,3 +1,7 @@
+import { SoundTouchNode } from "https://cdn.jsdelivr.net/npm/@soundtouchjs/audio-worklet@2.1.1/.dist/index.js";
+
+const SOUND_TOUCH_PROCESSOR = "https://cdn.jsdelivr.net/npm/@soundtouchjs/audio-worklet@2.1.1/.dist/soundtouch-processor.js";
+
 const app = {
   catalog: [],
   selectedSet: "Todas",
@@ -8,7 +12,9 @@ const app = {
   lastTick: 0,
   mutedAll: false,
   timer: null,
-  duration: 0
+  duration: 0,
+  audioContext: null,
+  workletReady: null
 };
 
 const $ = (id) => document.getElementById(id);
@@ -106,6 +112,8 @@ function stopAudio() {
     item.el.pause();
     item.el.removeAttribute("src");
     item.el.load();
+    item.sourceNode?.disconnect();
+    item.pitchNode?.disconnect();
   }
   app.audio = [];
 }
@@ -134,11 +142,8 @@ function makeTrackRow(track, index) {
   const audio = new Audio();
   audio.preload = "metadata";
   audio.src = safeUrl(track.file);
-  const rate = 2 ** ((app.selectedSong.pitchSemitones || 0) / 12);
-  audio.playbackRate = rate;
-  audio.preservesPitch = false;
   audio.volume = 0.85;
-  const entry = { el: audio, track, muted: false, volume: 0.85, offset: track.offset || 0, failed: false };
+  const entry = { el: audio, track, muted: false, volume: 0.85, offset: track.offset || 0, failed: false, sourceNode: null, pitchNode: null };
   audio.addEventListener("error", () => {
     if (!entry.failed) {
       entry.failed = true;
@@ -146,7 +151,7 @@ function makeTrackRow(track, index) {
     }
   });
   audio.addEventListener("loadedmetadata", () => {
-    const end = (entry.offset + (Number.isFinite(audio.duration) ? audio.duration : track.duration || 0)) / rate;
+    const end = entry.offset + (Number.isFinite(audio.duration) ? audio.duration : track.duration || 0);
     app.duration = Math.max(app.duration, end);
     updateTimeline();
   });
@@ -170,7 +175,7 @@ function loadSong(song) {
   stopAudio();
   app.selectedSong = song;
   app.playhead = 0;
-  app.duration = (song.duration || 0) / (2 ** ((song.pitchSemitones || 0) / 12));
+  app.duration = song.duration || 0;
   app.mutedAll = false;
   $("mute-all").textContent = "Silenciar todo";
   $("now-title").textContent = song.title;
@@ -191,12 +196,34 @@ function loadSong(song) {
   updateTimeline();
 }
 
-function start() {
+async function start() {
   if (!app.audio.length || !app.selectedSong) return;
+  try {
+    const semitones = app.selectedSong.pitchSemitones || 0;
+    if (semitones) {
+      if (!app.audioContext) app.audioContext = new AudioContext();
+      if (!app.workletReady) app.workletReady = SoundTouchNode.register(app.audioContext, SOUND_TOUCH_PROCESSOR);
+      await app.workletReady;
+      for (const item of app.audio) {
+        if (item.pitchNode) continue;
+        item.sourceNode = app.audioContext.createMediaElementSource(item.el);
+        item.pitchNode = new SoundTouchNode({ context: app.audioContext });
+        item.pitchNode.pitchSemitones.value = semitones;
+        item.pitchNode.playbackRate.value = 1;
+        item.sourceNode.connect(item.pitchNode);
+        item.pitchNode.connect(app.audioContext.destination);
+      }
+      await app.audioContext.resume();
+    }
+  } catch (error) {
+    console.error(error);
+    report("No se pudo preparar el cambio de tono. Intenta recargar la página.", true);
+    return;
+  }
   app.playing = true;
   app.lastTick = performance.now();
   for (const item of app.audio) {
-    const local = (app.playhead - item.offset) * item.el.playbackRate;
+    const local = app.playhead - item.offset;
     if (local >= 0 && local < item.el.duration) {
       item.el.currentTime = local;
       item.el.play().catch(() => report("El navegador bloqueó la reproducción. Vuelve a presionar Reproducir.", true));
@@ -230,7 +257,7 @@ function tick() {
     return;
   }
   for (const item of app.audio) {
-    const target = (app.playhead - item.offset) * item.el.playbackRate;
+    const target = app.playhead - item.offset;
     if (target < 0 || target >= item.el.duration) {
       item.el.pause();
       continue;
@@ -244,7 +271,7 @@ function tick() {
 function seekTo(value) {
   app.playhead = Math.max(0, Math.min(app.duration, value));
   for (const item of app.audio) {
-    const target = (app.playhead - item.offset) * item.el.playbackRate;
+    const target = app.playhead - item.offset;
     if (target >= 0 && target < item.el.duration) {
       item.el.currentTime = target;
       if (app.playing) item.el.play().catch(() => {});
