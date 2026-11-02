@@ -6,7 +6,7 @@ Sitio estático para escuchar por separado las alabanzas de cada momento del cam
 
 La interfaz y el catálogo se publican en GitHub Pages. Las pistas originales se distribuyen como archivos de una publicación de GitHub con la etiqueta `audio-v1`; `config.js` contiene la dirección base de esos archivos.
 
-Los desplazamientos de tono guardados en los proyectos REAPER se registran en `catalog.json`. La reproducción web aplica la transposición con el control de velocidad del navegador, por lo que la velocidad de la secuencia también cambia. Los proyectos `.rpp` fuente permanecen intactos en la carpeta original.
+Los desplazamientos de tono guardados en los proyectos REAPER se registran en `catalog.json`. La reproducción web conserva los desplazamientos de tono registrados en REAPER y mantiene el tempo usando [SoundTouchJS](https://github.com/cutterbl/SoundTouchJS), servido desde jsDelivr. Los proyectos `.rpp` fuente permanecen intactos en la carpeta original.
 
 ## Ejecución local
 
